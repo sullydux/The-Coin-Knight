@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# The Coin Knight [Webgame](https://sullydux.github.io/The-Coin-Knight/) or [App]()
+# The Coin Knight [Webgame](https://sullydux.github.io/The-Coin-Knight/) or [App](https://github.com/sullydux/The-Coin-Knight/releases/latest/)
 
 ### **Alpha 2**
 v0.2.0
@@ -16,6 +16,8 @@ The Coin Knight is a Godot platform-ish game. You play as a knight and collect c
 
 ## To add
 
-This game is still in dev 
+This game is still in active dev with many more fetures and mechanics.
 
 ## When
+
+Hopefully v1.0.0 will be released mid or late July.
