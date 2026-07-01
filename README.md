@@ -4,7 +4,9 @@
 
 <div align="center">
 
-# The Coin Knight [Webgame](https://sullydux.github.io/The-Coin-Knight/) or [App](https://github.com/sullydux/The-Coin-Knight/releases/latest/)
+# The Coin Knight 
+
+## [Webgame](https://sullydux.github.io/The-Coin-Knight/) or [App](https://github.com/sullydux/The-Coin-Knight/releases/latest/)
 
 ### **Alpha 2**
 v0.2.0
