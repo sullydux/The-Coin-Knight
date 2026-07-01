@@ -16,7 +16,7 @@ v0.2.0
 
 The Coin Knight is a Godot platform-ish game. You play as a knight and collect coins.
 
-This is my first Godot game and the base game from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0)
+This is my first Godot game and the base game from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0). Most assets(tile maps, sounds, slimes, character, and coins) are from [Brackeys Itch.io asset page](https://brackeysgames.itch.io/brackeys-platformer-bundle).
 
 ## To add
 
