@@ -6,7 +6,7 @@
 
 # The Coin Knight [Webgame](https://sullydux.github.io/The-Coin-Knight/) or [App]()
 
-*Alpha 2*
+### **Alpha 2**
 v0.2.0
 </div>
 
